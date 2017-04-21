@@ -1,4 +1,4 @@
-# Toolbelt Component - Pairburn
+# MemeGenerator
 
 * [Introduction](#introduction)
 * [Installation](#installation)
@@ -8,24 +8,18 @@
 
 ## Introduction
 
-A README for your component would go here.
-
+Ola first react component, just insert a mashape key into the preview js file
 
 ## Installation
 
 You can install this component using:
 
-\`\`\`
+```
 npm install component-pairburn --save
-\`\`\`
-
-
-## Usage
-
-Usage instructions would go here, such as info on what props to pass in etc.
+```
 
 
 ## Authors
 
-* [?](mailto:?)
-# MemeGenerator
+* Anjola
+* Jake
