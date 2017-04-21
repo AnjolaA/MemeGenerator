@@ -1,0 +1,31 @@
+{
+  "name": "pairburn",
+  "version": "0.0.1",
+  "description": "A toolbelt component.",
+  "main": "src/components/pairburn.js",
+  "files": [
+    "src",
+    "dist"
+  ],
+  "scripts": {
+    "test": "toolbelt test",
+    "preview": "toolbelt preview"
+  },
+  "author": "Sky UK",
+  "license": "BSD-3-Clause",
+  "peerDependencies": {
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2"
+  },
+  "dependencies": {
+    "axios": "^0.16.1",
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2",
+    "sky-toolkit": "github:sky-uk/toolkit"
+  },
+  "toolbelt": {
+    "name": "Pairburn",
+    "preview": "src/preview.js",
+    "index": "src/index.js"
+  }
+}
